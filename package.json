@@ -1,0 +1,9 @@
+{
+  "name": "abcxyz",
+  "version": "1.0.0",
+  "description": "for the test puprose only",
+  "main": "index.js",
+  "repository": "git@github.com:dva/abcxyz.git",
+  "author": "dva <denisva@gmail.com>",
+  "license": "MIT"
+}
