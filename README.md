@@ -1,0 +1,5 @@
+# abcxyz
+
+```
+npx abcxyz-please
+```
