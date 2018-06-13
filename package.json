@@ -4,6 +4,7 @@
   "description": "for the test puprose only",
   "main": "index.js",
   "repository": "git@github.com:dva/abcxyz.git",
+  "bin": "./index.js",
   "author": "dva <denisva@gmail.com>",
   "license": "MIT"
 }
